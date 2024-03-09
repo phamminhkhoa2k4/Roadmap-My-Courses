@@ -1,5 +1,5 @@
 # ***Roadmap of Wisdom aka MScience***
-![](images/js.png)
+![](Images/js.png)
 
 ## **Foundation**
 - CSS,HTML
@@ -8,7 +8,7 @@
   - Javascript Advanced
 - Typescript
 ## **Font-End**
-![](images/FE.png)
+![](Images/FE.png)
 ### Skill
 - ReactJS
   - ReactJS Basic 
@@ -21,20 +21,20 @@
   - NextJS SEO (Search Engine Optimization)
 
 ## **Back-End**
-![](images/BE.png)
+![](Images/BE.png)
 ### Skill
 - NodeJS (Express)
 - NestJS
   - NestJS Basic
   - NestJS Advanced
 ## **Styles**
-![](images/style.jpg)
+![](Images/style.jpg)
 - SASS
 - Tailwind
 - Bootstrap 5
 
 ## **DATABASE**
-![](images/DB.jpg)
+![](Images/DB.jpg)
 - SQL
   - MySQL
   - PostgreSQL
@@ -42,16 +42,16 @@
   - MongoDB
 
 ## **API**
-![](images/GraphQL-vs-REST.jpg)
+![](Images/GraphQL-vs-REST.jpg)
 - Restful
 - GraphQL
 
 ## **Other**
-![](images/git.png)
+![](Images/git.png)
 - Git, Github
-![](images/docker.png)
+![](Images/docker.png)
 - Docker
-![](images/jest.png)
+![](Images/jest.png)
 - Jest
 
 
