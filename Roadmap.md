@@ -21,7 +21,7 @@
   - NextJS SEO (Search Engine Optimization)
 
 ## **Back-End**
-![](Images/Be.png)
+![](Images/Backend.png)
 ### Skill
 - NodeJS (Express)
 - NestJS
