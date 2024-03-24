@@ -24,6 +24,8 @@
 ![](Images/Backend.png)
 ### Skill
 - NodeJS (Express)
+   - Express Foundation
+   - Express Practises
 - NestJS
   - NestJS Basic
   - NestJS Advanced
